@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 mongoose.set('strictQuery',true)
-const connectDB = mongoose.connect('mongodb+srv://645021000882:S3PikXQ0DLCjIOML@cluster.wge2nvq.mongodb.net/Posts', {
+const connectDB = mongoose.connect('mongodb+srv://645021000882:gOPa9vdF9xo5KoCw@cluster0.hs4dwbg.mongodb.net/Posts', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 })
